@@ -3,6 +3,7 @@ ReservationSericeREST
 
 Exercice : On veut développer un service RESTful ReservationServiceREST permettant la gestion des réservations de salles de cours. 
 Ce service doit permettre : 
+
 • de lister l’ensemble des réservations de salles pour une date et/ou heure précises, par type  de cours, à partir d’une certaine date, … ; 
 
 • de lister l’ensemble des salles disponibles à une date et/ou heure précises ; • de réserver une salle pour une date et heure précises ; 
